@@ -17,4 +17,9 @@
 
 If you are a beginner, I recommend starting with MariaDB. Then trying to switch to PostgreSQL.
 
-But if you work at a large company and you are in a Windows environment, I recommend using SQL Server so you can contact technical support.
+If you work at a large company and you are in a Windows environment, I recommend using SQL Server so you can contact technical support.
+
+Dont forget there are many other SQL servers out there, so your ideal tool might not be listed here.
+
+
+◎ [Databases →](./Databases.md)

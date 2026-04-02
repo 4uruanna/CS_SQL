@@ -16,7 +16,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 
 1. **The basics**
     1. [Choose an engine](./docs/Choose_an_engine.md)
-    2. Databases
+    2. [Databases](./docs/Databases.md)
     3. Tables
     4. Datas
     5. Joins
