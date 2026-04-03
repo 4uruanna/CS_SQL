@@ -1,8 +1,8 @@
 # CS SQL
 
-Version : 0.1.0  
+Version : 0.3.0  
 Created on : 02.04.2026  
-Updated on : 02.04.2026
+Updated on : 03.04.2026
 
 ## INTRODUCTION
 
@@ -17,7 +17,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 1. **The basics**
     1. [Choose an engine](./docs/Choose_an_engine.md)
     2. [Databases](./docs/Databases.md)
-    3. Tables
+    3. [Tables](./docs/Tables.md)
     4. Datas
     5. Joins
 2. **Advanced topics**
