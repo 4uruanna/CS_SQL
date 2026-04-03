@@ -3,7 +3,7 @@
 # Data Types
 
 - [Numeric](./Data_types/Numeric.md)
-- [Text](./Data_Types/Text.md)
+- [Text](./Data_types/Text.md)
 - [Specific](./Data_types/Specific.md)
 - [Date & Time](./Data_types/Date_&_Time.md)
 
