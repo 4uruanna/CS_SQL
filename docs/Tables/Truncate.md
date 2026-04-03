@@ -1,4 +1,4 @@
-[Home](../readme.md) / The basics / [Tables](../Tables.md) / Truncate
+[Home](../../readme.md) / The basics / [Tables](../Tables.md) / Truncate
 
 # Truncate
 

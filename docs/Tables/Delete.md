@@ -1,4 +1,4 @@
-[Home](../readme.md) / The basics / [Tables](../Tables.md) / Delete
+[Home](../../readme.md) / The basics / [Tables](../Tables.md) / Delete
 
 # Delete
 

@@ -1,4 +1,4 @@
-[Home](../readme.md) / The basics / [Tables](../Tables.md) / List
+[Home](../../readme.md) / The basics / [Tables](../Tables.md) / List
 
 # List
 

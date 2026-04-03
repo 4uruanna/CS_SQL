@@ -1,4 +1,4 @@
-[Home](../readme.md) / The basics / [Tables](../Tables.md) / Clone
+[Home](../../readme.md) / The basics / [Tables](../Tables.md) / Clone
 
 # Clone
 
