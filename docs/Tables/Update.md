@@ -1,15 +1,94 @@
-[Home](../readme.md) / The basics / [Tables](../Tables.md) /  Update
+[Home](../../readme.md) / The basics / [Tables](../Tables.md) /  Update
 
 # Update
 
-## Add column
+## Column
+
+Add:
+```SQL
+ALTER TABLE table_name ADD COLUMN column_name {{DATATYPE}};
+```
+
+Remove:
+```SQL
+ALTER TABLE table_name DROP COLUMN column_name;
+```
+
+### Rename column
+
+**MariaDB & PostgreSQL**
+```SQL
+ALTER TABLE table_name RENAME COLUMN old_name TO new_name;
+```
+
+**SQL Server**
+```SQL
+EXEC sp_rename 'table_name.old_name', 'new_name', 'COLUMN';
+```
+
+## Update column
 
 **MariaDB & SQL Server**
 ```SQL
-ALTER TABLE table_name ADD column_name {{DATATYPE}};
+ALTER TABLE table_name MODIFY column_name {{DATATYPE}} {{CONSTRAINT}};
 ```
 
 **PostgreSQL**
 ```SQL
-ALTER TABLE table_name ADD COLUMN column_nme {{DATATYPE}};
+ALTER TABLE table_name ALTER COLUMN column_name TYPE {{DATATYPE}};
 ```
+
+### ✶ ADD CONSTRAINT ✶
+
+```SQL
+ALTER TABLE table_name ADD CONSTRAINT constraint_name {{CONSTRAINT}};
+```
+
+### ✶ REMOVE CONSTRAINT ✶
+
+**PostgreSQL & SQL Server**
+```SQL
+ALTER TABLE table_name DROP CONSTRAINT constraint_name;
+```
+
+**MariaDB**
+```SQL
+ALTER TABLE ma_table DROP {{CONSTRAINT}} constraint_name;
+```
+
+### ✶ ADD DEFAULT ✶
+
+**MariaDB & PostgreSQL**
+```SQL
+ALTER TABLE table_name ALTER COLUMN column_name SET DEFAULT 'DEFAULT DATA';
+```
+
+**SQL Server**
+```SQL
+ALTER TABLE table_name ADD CONSTRAINT constraint_name DEFAULT 'DEFAULT DATA' FOR column_name;
+```
+
+### ✶ REMOVE DEFAULT ✶
+
+**MariaDB & PostgreSQL**
+```SQL
+ALTER TABLE table_name ALTER COLUMN column_name DROP DEFAULT;
+```
+
+**SQL Server**
+```SQL
+ALTER TABLE table_name DROP CONSTRAINT constraint_name;
+```
+
+### ✶ ADD INDEX ✶
+
+```SQL
+ALTER TABLE table_name ADD INDEX index_name;
+```
+
+### ✶ REMOVE INDEX ✶
+
+```SQL
+ALTER TABLE table_name DROP INDEX index_name;
+```
+
