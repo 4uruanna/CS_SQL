@@ -1,8 +1,8 @@
 [Home](../readme.md) / The basics / [Databases](../Databases.md) / Backup
 
-# Backup
+# Backup (Export & Restore)
 
-## EXPORT
+## Export
 
 **MariaDB**  
 No SQL exists to do it so you need to use your terminal.
@@ -34,7 +34,7 @@ TO DISK = 'filepath/filename.bak';
 WITH DIFFERENTIAL;
 ```
 
-## RESTORE
+## Restore
 
 **MariaDB**  
 No SQL exists to do it so you need to use your terminal.

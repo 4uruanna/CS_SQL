@@ -11,5 +11,5 @@ SELECT schema_name FROM information_schema.schemata;
 
 **PostgreSQL** 
 ```SQL
-SELECT datname FROM pg_database;
+SELECT datname FROM pg_database WHERE datistemplate = false;
 ```
