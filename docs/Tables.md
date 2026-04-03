@@ -4,6 +4,8 @@
 
 Now that you have created your first database you need to understand how table manipulation works.
 
+When you see `{{DATATYPE}}` it refers to [this section](./Resources/Data_Types.md).
+
 - [Create](./Tables/Create.md)
 - [Clone](./Tables/Clone.md)
 - [Delete](./Tables/Delete.md)

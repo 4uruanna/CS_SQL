@@ -31,6 +31,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 
 ## RESOURCES
 
-- Operators
 - Constraints
+- [Data Types](./docs/Resources/Data_Types.md)
 - Functions
+- Operators
