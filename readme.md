@@ -1,8 +1,9 @@
 # CS SQL
-
-Version : 0.3.0  
-Created on : 02.04.2026  
-Updated on : 03.04.2026
+|||
+|-:|:-|
+|Version|0.5.0|
+| Created on | 02/04/2026 |
+| Updated on | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -19,7 +20,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
     2. [Databases](./docs/Databases.md)
     3. [Tables](./docs/Tables.md)
     4. [Datas](./docs/Datas.md)
-    5. Joins
+    5. [Joins](./docs/Joins.md)
 2. **Advanced topics**
     1. Transactions
     2. Views

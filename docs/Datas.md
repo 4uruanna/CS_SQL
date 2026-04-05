@@ -2,10 +2,10 @@
 
 # Datas
 
-- [Create](./Datas/Create.md)
-- [Clone](./Datas/Clone.md)
-- [Delete](./Datas/Delete.md)
-- [Select](./Datas/Select.md)
-- [Update](./Datas/Update.md)
+- [Create](./Datas/Create.md) — Insert new row in table
+- [Clone](./Datas/Clone.md) — Clone row from one table into another one
+- [Delete](./Datas/Delete.md) — Delete row
+- [Select](./Datas/Select.md) — Select data from table
+- [Update](./Datas/Update.md) — Update data from table
 
-[← Tables](./Tables.md) ◎ [Joins →]()
+[← Tables](./Tables.md) ◎ [Joins →](./Joins.md)
