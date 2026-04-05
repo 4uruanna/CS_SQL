@@ -13,4 +13,4 @@ When you see `{{DATATYPE}}` it refers to [this section](./Resources/Data_Types.m
 - [Truncate](./Tables/Truncate.md)
 - [Update](./Tables/Update.md)
 
-[← Databases](./Databases.md) ◎ [Datas →]()
+[← Databases](./Databases.md) ◎ [Datas →](./Datas.md)

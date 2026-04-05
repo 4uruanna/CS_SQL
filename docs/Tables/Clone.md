@@ -4,17 +4,16 @@
 
 **MariaDB**
 ```SQL
-CREATE TABLE table_clone LIKE table_source;
-INSERT INTO table_clone SELECT * FROM table_source;
+CREATE TABLE table_clone 
+AS SELECT *
+FROM table_source
+WHERE {{CONDITION}};
 ```
 
-**PostgreSQL**
+**SQL Server & PostgreSQL**
 ```SQL
-CREATE TABLE table_clone (LIKE table_source INCLUDING ALL);
-INSERT INTO table_clone SELECT * FROM table_source;
-```
-
-**SQL Server**
-```SQL
-SELECT * INTO table_clone FROM table_source;
+SELECT *
+INTO table_clone
+FROM table_source
+WHERE {{CONDITION}};
 ```
