@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.7.0 | 02/04/2026 | 05/04/2026 |
+| 0.9.0 | 02/04/2026 | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -29,8 +29,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 
 ## RESOURCES
 
-- Functions
 - Constraints
 - [Data Types](./docs/Resources/Data_Types.md)
 - Functions
-- Operators
+- [Operators](./docs/Resources/Operators.md)
