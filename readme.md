@@ -1,9 +1,7 @@
 # CS SQL
-|||
-|-:|:-|
-|Version|0.5.0|
-| Created on | 02/04/2026 |
-| Updated on | 05/04/2026 |
+| Version | Created on | Updated on |
+|:-:|:-:|:-:|
+| 0.6.0 | 02/04/2026 | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -23,7 +21,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
     5. [Joins](./docs/Joins.md)
 2. **Advanced topics**
     1. Transactions
-    2. Views
+    2. [Views](./docs/Views.md)
     3. Storage procedures
     4. Functions
     5. Triggers
