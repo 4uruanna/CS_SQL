@@ -32,5 +32,4 @@ FROM table_name
 WHERE condition;
 ```
 
-
-[← ](./.md) ◎ [ →](./.md)
+[← ](./.md) ◎ [Storage Procedures →](./Storage_Procedures.md)

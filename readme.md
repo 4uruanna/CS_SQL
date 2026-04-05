@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.6.0 | 02/04/2026 | 05/04/2026 |
+| 0.7.0 | 02/04/2026 | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -22,14 +22,14 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 2. **Advanced topics**
     1. Transactions
     2. [Views](./docs/Views.md)
-    3. Storage procedures
-    4. Functions
+    3. [Storage procedures](./docs/Storage_Procedures.md)
     5. Triggers
     6. Optimisation
     7. Security
 
 ## RESOURCES
 
+- Functions
 - Constraints
 - [Data Types](./docs/Resources/Data_Types.md)
 - Functions
