@@ -6,6 +6,8 @@ Now that you have created your first database you need to understand how table m
 
 When you see `{{DATATYPE}}` it refers to [this section](./Resources/Data_Types.md).
 
+When you see `{{CONSTRAINT}}` it refers to [this section](./Resources/Constraints.md).
+
 - [Create](./Tables/Create.md)
 - [Clone](./Tables/Clone.md)
 - [Delete](./Tables/Delete.md)
