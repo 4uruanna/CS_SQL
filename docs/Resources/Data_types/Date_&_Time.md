@@ -10,3 +10,13 @@
 | `TIMESTAMP` | `TIMESTAMP` | N/A |
 | `YEAR` | N/A | N/A |
 | N/A | `INTERVAL` | N/A |
+
+## Format
+
+| Type | Format |
+|-:|:-|
+| DATE | YYYY-MM-DD |
+| DATETIME | YYYY-MM-DD HH:MI:SS |
+| TIMESTAMP | YYYY-MM-DD HH:MI:SS |
+| TIME | HH:MI:SS |
+| YEAR |format YYYY or YY |
