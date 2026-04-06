@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.10.0 | 02/04/2026 | 05/04/2026 |
+| 0.11.0 | 02/04/2026 | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -20,7 +20,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
     4. [Datas](./docs/Datas.md)
     5. [Joins](./docs/Joins.md)
 2. **Advanced topics**
-    1. Transactions
+    1. [Transactions](./docs/Transactions.md)
     2. [Views](./docs/Views.md)
     3. [Storage procedures](./docs/Storage_Procedures.md)
     5. Triggers
@@ -33,3 +33,13 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 - [Data Types](./docs/Resources/Data_Types.md)
 - Functions
 - [Operators](./docs/Resources/Operators.md)
+
+## TODO
+
+- Add Triggers
+- Add Optimisation (`EXPLAIN`)
+- Add Security
+- Add `UNION`
+- Add Fransaction `SAVEPOINT`
+- Add Function
+- Add `INDEX`
