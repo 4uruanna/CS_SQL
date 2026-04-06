@@ -23,7 +23,7 @@ CONVERT({{DATATYPE}}, value)
 
 Return the first non-`NULL` value.
 ```SQL
-COALESCE(column_b, 0)
+COALESCE(value, default_value)
 ```
 
 The second argument is the default value (by default `NULL`).
@@ -31,6 +31,13 @@ The second argument is the default value (by default `NULL`).
 ## If null
 
 Replace `NULL` values with another.
+
+**MariaDB & PostgreSQL**
 ```SQL
-IFNULL(column_b, 0)
+IFNULL(value, 0)
+```
+
+**SQL Server**
+```SQL
+ISNULL(value, default_value)
 ```
