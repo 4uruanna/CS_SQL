@@ -83,12 +83,17 @@ ALTER TABLE table_name DROP CONSTRAINT constraint_name;
 ### ✶ ADD INDEX ✶
 
 ```SQL
-ALTER TABLE table_name ADD INDEX index_name;
+CREATE INDEX index_name ON table_name(column_a, column_b, ...);
 ```
 
 ### ✶ REMOVE INDEX ✶
 
+**MariaDB & SQL Server**
 ```SQL
-ALTER TABLE table_name DROP INDEX index_name;
+DROP INDEX index_name ON table_name;
 ```
 
+**PostgreSQL**
+```SQL
+DROP INDEX index_name;
+```

@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.12.0 | 02/04/2026 | 05/04/2026 |
+| 0.13.0 | 02/04/2026 | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -26,7 +26,7 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
     2. [Views](./docs/Views.md)
     3. [Storage procedures](./docs/Storage_Procedures.md)
     5. Triggers
-    6. Optimisation
+    6. [Optimizations](./docs/Optimizations.md) — Analyze & indexes
     7. Security
 
 ## RESOURCES
@@ -39,7 +39,6 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 ## TODO
 
 - Add Triggers
-- Add Optimisation (`EXPLAIN`)
 - Add Security
 - Add `UNION`
 - Add Fransaction `SAVEPOINT`
