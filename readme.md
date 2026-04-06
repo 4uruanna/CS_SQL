@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.13.0 | 02/04/2026 | 05/04/2026 |
+| 0.13.0 | 02/04/2026 | 06/04/2026 |
 
 ## INTRODUCTION
 

@@ -24,6 +24,7 @@ WHERE {{CONDITION}}
 - Use only indexed foreign keys.
 - If possible, reduce the size of the tables using a `WHERE` clause before joins.
 - Avoid using functions in the `WHERE` clause as much as possible.
+- If possible, use `JOIN` instead of subquery [operator](./Resources/Operators.md) (such as `IN`, `EXISTS`, etc.)
 
 ## Index
 
