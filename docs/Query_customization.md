@@ -2,7 +2,7 @@
 
 # Query customization
 
-## CASE
+## Case
 
 Customize the output of a column using a switch/case statement type.
 
@@ -18,9 +18,17 @@ END AS column_b
 FROM table_name;
 ```
 
-## GROUP BY
+## Distinct
+Remove duplicates. This operation can be combined with certain [aggregate functions](./Resources/Functions/Aggregate.md), such as `COUNT`.
 
-It is commonly used with [aggregate](./Resources/Functions/Aggregate.md) functions (such as `COUNT`, `MAX` ...).
+```SQL
+SELECT column_a, DISTINCT column_b FROM table_name;
+SELECT COUNT(DISTINCT column_a) FROM table_name; 
+```
+
+## Group By
+
+It is commonly used with [aggregate functions](./Resources/Functions/Aggregate.md) (such as `COUNT`, `MAX` ...).
 
 ```SQL
 SELECT column_a, COUNT(column_b), MAX(column_c) FROM table_name
@@ -28,7 +36,7 @@ WHERE {{CONDITION}}
 GROUP BY column_a;
 ```
 
-## HAVING
+## Having
 
 Filters the results of a `GROUP BY`.
 ```SQL
@@ -39,7 +47,7 @@ GROUP BY column_b
 HAVING COUNT(column_a) > 100;
 ```
 
-## LIMIT & OFFSET
+## Limit & Offset
 
 This allows you to create a pagination query.
 

@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.14.0 | 02/04/2026 | 06/04/2026 |
+| 0.14.2 | 02/04/2026 | 06/04/2026 |
 
 ## INTRODUCTION
 
@@ -40,6 +40,5 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 
 - Add triggers
 - Add security
-- Add query customization (`DISTINCT`, `UNION`, `AS`)
+- Add query customization (`AS`)
 - Add transaction `SAVEPOINT`
-- Add `INDEX`
