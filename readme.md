@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.11.0 | 02/04/2026 | 05/04/2026 |
+| 0.12.0 | 02/04/2026 | 05/04/2026 |
 
 ## INTRODUCTION
 
@@ -15,10 +15,12 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 
 1. **The basics**
     1. [Choose an engine](./docs/Choose_an_engine.md)
-    2. [Databases](./docs/Databases.md)
-    3. [Tables](./docs/Tables.md)
-    4. [Datas](./docs/Datas.md)
-    5. [Joins](./docs/Joins.md)
+    2. [Comments](./docs/Comments.md)
+    3. [Databases](./docs/Databases.md)
+    4. [Tables](./docs/Tables.md)
+    5. [Datas](./docs/Datas.md)
+    6. [Joins](./docs/Joins.md)
+    7. [Query customization](./docs/Query_customization.md) — Sort, group, filter and transform 
 2. **Advanced topics**
     1. [Transactions](./docs/Transactions.md)
     2. [Views](./docs/Views.md)

@@ -7,4 +7,4 @@
 - [Right](./Joins/Right.md) — Return all rows from right and only matched rows from left
 - [Full](./Joins/Full.md) — Return all rows of both tables
 
-[← Datas](./Datas.md) ◎ [Transactions →](./Transactions.md)
+[← Datas](./Datas.md) ◎ [Query customization →](./Query_customization.md)

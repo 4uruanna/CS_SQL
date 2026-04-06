@@ -1,4 +1,4 @@
-[Home](../readme.md) / The basics / Choose and engine
+[Home](../readme.md) / The basics / Choose an engine
 
 # Choose an engine
 
@@ -22,4 +22,4 @@ If you work at a large company and you are in a Windows environment, I recommend
 Dont forget there are many other SQL servers out there, so your ideal tool might not be listed here.
 
 
-◎ [Databases →](./Databases.md)
+◎ [Comments →](./Comments.md)

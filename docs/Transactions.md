@@ -27,4 +27,4 @@ If any update fails, `ROLLBACK` cancels all changes to maintain consistency.
 ROLLBACK;
 ```
 
-[← Joins](./Joins.md) ◎ [Views →](./Views.md)
+[← Query customization](./Query_customization.md) ◎ [Views →](./Views.md)
