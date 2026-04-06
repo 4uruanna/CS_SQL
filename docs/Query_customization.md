@@ -20,7 +20,7 @@ FROM table_name;
 
 ## GROUP BY
 
-It is commonly used with aggregate functions (such as `COUNT`, `MAX` ...).
+It is commonly used with [aggregate](./Resources/Functions/Aggregate.md) functions (such as `COUNT`, `MAX` ...).
 
 ```SQL
 SELECT column_a, COUNT(column_b), MAX(column_c) FROM table_name

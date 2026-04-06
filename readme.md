@@ -1,7 +1,7 @@
 # CS SQL
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.13.0 | 02/04/2026 | 06/04/2026 |
+| 0.14.0 | 02/04/2026 | 06/04/2026 |
 
 ## INTRODUCTION
 
@@ -33,14 +33,13 @@ Here, I have tried to compile a step-by-step guide to all the commons practices 
 
 - [Constraints](./docs/Resources/Constraints.md)
 - [Data Types](./docs/Resources/Data_Types.md)
-- Functions
+- [Functions](./docs/Resources/Functions.md)
 - [Operators](./docs/Resources/Operators.md)
 
 ## TODO
 
-- Add Triggers
-- Add Security
-- Add `UNION`
-- Add Fransaction `SAVEPOINT`
-- Add Function
+- Add triggers
+- Add security
+- Add query customization (`DISTINCT`, `UNION`, `AS`)
+- Add transaction `SAVEPOINT`
 - Add `INDEX`
