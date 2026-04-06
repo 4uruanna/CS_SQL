@@ -71,5 +71,16 @@ WHERE {{CONDITION}}
 ORDER BY column_a ASC, column_b DESC;
 ```
 
+## UNION & UNION ALL
+
+Combine results from multiple `SELECT` (`UNION` will remove duplicates, unlike `UNION ALL`).
+
+Each `SELECT` statement must have the same number of columns, be in the same order, and have the same data types.
+
+```SQL
+SELECT column_name FROM Customers
+UNION
+SELECT column_name FROM Suppliers
+```
 
 [← Joins](./Joins.md) ◎ [Transactions →](./Transactions.md)
