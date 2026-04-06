@@ -2,6 +2,17 @@
 
 # Query customization
 
+## Alias
+
+You can redefine columns and tables using the `AS` keyword.
+
+```SQL
+SELECT column_a AS ca
+FROM table_a AS ta
+INNER JOIN table_b AS tb
+ON ta.column_a = tb.column_b;
+```
+
 ## Case
 
 Customize the output of a column using a switch/case statement type.
