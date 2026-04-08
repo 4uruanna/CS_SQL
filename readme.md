@@ -4,7 +4,7 @@ Here, I have tried to compile a step-by-step "guide" to all the commons practice
 
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 1.0.0 | 02/04/2026 | 08/04/2026 |
+| 1.0.1 | 02/04/2026 | 08/04/2026 |
 
 ## INTRODUCTION
 
