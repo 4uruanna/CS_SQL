@@ -4,7 +4,7 @@ Here, I have tried to compile a step-by-step "guide" to all the commons practice
 
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 0.14.3 | 02/04/2026 | 06/04/2026 |
+| 1.0.0 | 02/04/2026 | 08/04/2026 |
 
 ## INTRODUCTION
 
@@ -25,8 +25,8 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
 2. **Advanced topics**
     1. [Transactions](./docs/Transactions.md)
     2. [Views](./docs/Views.md)
-    3. [Storage procedures](./docs/Storage_Procedures.md)
-    5. Triggers
+    3. [Stored Procedures](./docs/Stored_Procedures.md)
+    5. [Triggers](./docs/Triggers.md)
     6. [Optimizations](./docs/Optimizations.md) — Analyze & indexes
     7. Security
 
@@ -39,6 +39,5 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
 
 ## TODO
 
-- Add triggers
 - Add security
 - Add transaction `SAVEPOINT`

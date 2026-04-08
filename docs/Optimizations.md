@@ -41,4 +41,4 @@ ON table_name (column_a, column_b, ...);
 
 See more into [Tables / Update](./Tables/Update.md).
 
-[← ](./.md) ◎ [ →](./.md)
+[← Triggers](./Triggers.md) ◎ [Security →](./Security.md)

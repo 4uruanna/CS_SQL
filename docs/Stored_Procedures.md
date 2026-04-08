@@ -44,4 +44,4 @@ EXEC procedure_a
     @param_c = 'value_c';
 ```
 
-[← Views](./Views.md) ◎ [ →](./.md)
+[← Views](./Views.md) ◎ [Triggers →](./Triggers.md)
