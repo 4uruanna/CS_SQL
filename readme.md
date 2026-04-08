@@ -36,8 +36,3 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
 - [Data Types](./docs/Resources/Data_Types.md)
 - [Functions](./docs/Resources/Functions.md)
 - [Operators](./docs/Resources/Operators.md)
-
-## TODO
-
-- Add security
-- Add transaction `SAVEPOINT`
