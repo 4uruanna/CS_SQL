@@ -2,16 +2,6 @@
 
 # Rename
 
-**MariaDB**
+_Rename a database._
 
-There is no easy solution. You can follow [this official article](https://mariadb.com/docs/server/reference/sql-statements/data-definition/renaming-databases).
-
-**PostgreSQL** 
-```SQL
-ALTER DATABASE old_name RENAME TO new_name;
-```
-
-**SQL Server**
-```SQL
-ALTER DATABASE old_name MODIFY NAME = new_name;
-```
+[PostgreSQL](./Rename.postgresql.md) \| [MariaDB](./Rename.mariadb.md) \| [SQL Server](./Rename.sqlserver.md)
