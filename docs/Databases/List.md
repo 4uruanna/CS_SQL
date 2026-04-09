@@ -10,5 +10,4 @@ _List all databases._
 | MariaDB | `SELECT schema_name FROM information_schema.schemata;`|
 | SQL Server | `SELECT schema_name FROM information_schema.schemata;`|
 
-
 > Note: Don't worry if you see databases that don't belong to you. Some databases are created by your engine to ensure it runs properly.

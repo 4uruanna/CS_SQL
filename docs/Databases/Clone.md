@@ -1,5 +1,7 @@
 [Home](../readme.md) / The basics / [Databases](../Databases.md) / Clone
 
+[postgresql.org — "Create database"](https://www.postgresql.org/docs/current/sql-createdatabase.html)
+
 # Clone
 
 _Duplicate database_

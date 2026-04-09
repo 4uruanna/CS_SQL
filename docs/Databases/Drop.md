@@ -1,5 +1,10 @@
 [Home](../readme.md) / The basics / [Databases](../Databases.md) / Drop
 
+
+[postgresql.org — "Drop database"](https://www.postgresql.org/docs/current/sql-dropdatabase.html)  
+[mariadb.com — "Drop database"](https://mariadb.com/docs/server/reference/sql-statements/data-definition/drop/drop-database)  
+[learn.microsoft.com — "Drop database"](https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-database-transact-sql)
+
 # Drop
 
 _Delete database._
