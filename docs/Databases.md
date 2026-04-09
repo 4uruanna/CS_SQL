@@ -9,7 +9,7 @@ The first thing you need to do is to understand the basics of database manipulat
 - [Backup](./Databases/Backup.md)
 - [Create](./Databases/Create.md)
 - [Clone](./Databases/Clone.md)
-- [Delete](./Databases/Delete.md)
+- [Drop](./Databases/Drop.md)
 - [List](./Databases/List.md)
 - [Rename](./Databases/Rename.md)
 
