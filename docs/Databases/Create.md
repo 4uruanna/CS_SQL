@@ -2,6 +2,8 @@
 
 # Create
 
-```SQL
-CREATE DATABASE db_name;
-```
+| Engine | Code |
+|-:|:-|
+| PostgreSQL | `CREATE DATABASE {{database_name}};`|
+| MariaDB | `CREATE DATABASE {{database_name}};`|
+| SQL Server | `CREATE DATABASE {{database_name}};`|
