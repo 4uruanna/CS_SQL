@@ -28,7 +28,7 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
     3. [Stored Procedures](./docs/Stored_Procedures.md)
     5. [Triggers](./docs/Triggers.md)
     6. [Optimizations](./docs/Optimizations.md) — Analyze & indexes
-    7. Security
+    7. Security — _Todo_
 
 ## RESOURCES
 
