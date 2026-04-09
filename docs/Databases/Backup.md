@@ -1,8 +1,6 @@
 [Home](../readme.md) / The basics / [Databases](../Databases.md) / Backup
 
-# Backup (Export & Restore)
-
-## Export
+# Backup
 
 _Full backup and restore._
 
