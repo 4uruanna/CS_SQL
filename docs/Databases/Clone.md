@@ -2,15 +2,13 @@
 
 # Clone
 
-**MariaDB**
+_Duplicate database_
 
-There is no easy solution. You need to [export](./Backup.md) and restore it using using another name.
+| Engine | Code |
+|-:|:-|
+| PostgreSQL | `CREATE DATABASE {{clone_name}} WITH TEMPLATE {{source_name}};`|
+| MariaDB | There is no easy solution. You can [export and restore](./Backup.mariadb.md) it with different name. |
+| SQL Server | There is no easy solution. You can [export and restore](./Backup.sqlserver.md) it with different name. |
 
-**PostgreSQL** 
-```SQL
-CREATE DATABASE db_clone WITH TEMPLATE db_source;
-```
-
-**SQL Server**
-
-There is no easy solution. You need to [export](./Backup.md) and restore it using using another name.
+- Replace `{{source_name}}` with the name of the target database.
+- Replace `{{clone_name}}` with the name of the clone database.
