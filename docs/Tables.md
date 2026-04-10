@@ -8,11 +8,13 @@ When you see `{{DATATYPE}}` it refers to [this section](./Resources/Data_Types.m
 
 When you see `{{CONSTRAINT}}` it refers to [this section](./Resources/Constraints.md).
 
-- [Create](./Tables/Create.md)
-- [Clone](./Tables/Clone.md)
-- [Delete](./Tables/Delete.md)
-- [List](./Tables/List.md)
-- [Truncate](./Tables/Truncate.md)
-- [Update](./Tables/Update.md)
+| Action | Description | 
+|:-:|:-|
+| [Clone](./Tables/Clone.md) | Duplicate table |
+| [Create](./Tables/Create.md) | Create new table |
+| [Delete](./Tables/Delete.md) | Delete table |
+| [List](./Tables/List.md) | List all tables |
+| [Truncate](./Tables/Truncate.md) | Delete all data |
+| [Alter](./Tables/Alter.md) | Update table |
 
 [← Databases](./Databases.md) ◎ [Datas →](./Datas.md)
