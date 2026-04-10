@@ -12,7 +12,7 @@ When you see `{{CONSTRAINT}}` it refers to [this section](./Resources/Constraint
 |:-:|:-|
 | [Clone](./Tables/Clone.md) | Duplicate table |
 | [Create](./Tables/Create.md) | Create new table |
-| [Delete](./Tables/Delete.md) | Delete table |
+| [Drop](./Tables/Drop.md) | Delete table |
 | [List](./Tables/List.md) | List all tables |
 | [Truncate](./Tables/Truncate.md) | Delete all data |
 | [Alter](./Tables/Alter.md) | Update table |
