@@ -1,10 +1,10 @@
-# CS SQL
+# SQL — Cheat Sheet
 
 Here, I have tried to compile a step-by-step "guide" to all the commons practices I have encountered in [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/) and [SQL Server](https://www.microsoft.com/en-us/sql-server/).
 
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 1.0.6 | 02/04/2026 | 09/04/2026 |
+| 1.2.0 | 02/04/2026 | 12/04/2026 |
 
 ## INTRODUCTION
 
@@ -14,25 +14,30 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
 
 ## SUMMARY
 
-1. **The basics**
-    1. [Choose an engine](./docs/Choose_an_engine.md)
-    2. [Comments](./docs/Comments.md)
-    3. [Databases](./docs/Databases.md)
-    4. [Tables](./docs/Tables.md)
-    5. [Datas](./docs/Datas.md)
-    6. [Joins](./docs/Joins.md)
-    7. [Query customization](./docs/Query_customization.md) — Sort, group, filter and transform 
-2. **Advanced topics**
-    1. [Transactions](./docs/Transactions.md)
-    2. [Views](./docs/Views.md)
-    3. [Stored Procedures](./docs/Stored_Procedures.md)
-    5. [Triggers](./docs/Triggers.md)
-    6. [Optimizations](./docs/Optimizations.md) — Analyze & indexes
-    7. Security — _Todo_
+1. [Choose an engine](./docs/Choose_an_engine.md)
 
-## RESOURCES
+| MariaDB |
+|:-|
+| 1. [Comments](./docs/MariaDB/Comments.md) |
+| 2. [Databases](./docs/MariaDB/Databases.md) |
+| 3. [Tables](./docs/MariaDB/Tables.md) |
+| 4. [Datas](./docs/MariaDB/Datas.md) |
+| 5. [Joins](./docs/MariaDB/Joins.md) |
+| 6. [Query customizations](./docs/MariaDB/Query_customizations.md) |
+| 7. [Transactions](./docs/MariaDB/Transactions.md) |
+| 8. [Views](./docs/MariaDB/Views.md) |
+| 9. [Stored procedures](./docs/MariaDB/Stored_procedures.md) |
+| 10. [Triggers](./docs/MariaDB/Triggers.md) |
+| 11. [Optimizations](./docs/MariaDB/Optimizations.md) |
+| 12. [Constraints](./docs/MariaDB/Constraints.md) |
+| 13. [Data Types](./docs/MariaDB/Data_Types.md) |
+| 14. [Functions](./docs/MariaDB/Functions.md) |
+| 15. [Operators](./docs/MariaDB/Operators.md) |
 
-- [Constraints](./docs/Resources/Constraints.md)
-- [Data Types](./docs/Resources/Data_Types.md)
-- [Functions](./docs/Resources/Functions.md)
-- [Operators](./docs/Resources/Operators.md)
+### PostgreSQL
+
+_In Progress_
+
+### SQL Server
+
+_In Progress_

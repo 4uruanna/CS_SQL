@@ -2,7 +2,7 @@
 
 # Clone
 
-If you use the same names and the same order in both tables, you can also use a subquery to achieve this :
+If you use the same names and the same order in both tables, you can also use a subquery to achieve this:
 ```SQL
 INSERT INTO target_table
 SELECT * FROM source_table

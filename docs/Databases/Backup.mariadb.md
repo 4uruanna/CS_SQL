@@ -1,6 +1,5 @@
 [Home](../readme.md) / The basics / [Databases](../Databases.md) / [Backup](./Backup.md) / MariaDB
 
-[mariadb.com — "Backup and Restore Overview"](https://mariadb.com/docs/server/server-usage/backup-and-restore/backup-and-restore-overview)
 
 # Backup — MariaDB
 

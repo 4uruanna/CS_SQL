@@ -16,7 +16,7 @@
 | `ANY` | Compares a value to a set of values from a subquery and is valid if one of them is correct. |
 | `EXISTS` | If a value exists in a result-set of subquery |
 
-## Examples
+### Examples
 
 ```SQL
 WHERE column_a = 1;

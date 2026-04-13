@@ -3,6 +3,7 @@
 # Numeric
 
 You can combine any numeric type them with `UNSIGNED`:
+
 ```SQL
 column_a SMALLINT UNSIGNED
 ```
@@ -16,7 +17,6 @@ column_a SMALLINT UNSIGNED
 | 3 | `MEDIUMINT` | N/A | N/A | 16 777 215 |
 | 4 | `INT`, `INTEGER` | `INTEGER` | `INT` | 4 294 967 295 |
 | 8 | `BIGINT` | `BIGINT` | `BIGINT` | 18 446 744 073 709 551 615 |
-
 
 ## Decimal
 

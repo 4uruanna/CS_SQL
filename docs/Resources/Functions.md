@@ -9,6 +9,6 @@
 
 ## More
 
-- **MariaDB** [(external link) Types](https://mariadb.com/docs/server/reference/sql-functions)
+- **MariaDB** 
 - **PostgreSQL** [(external link) Types](https://www.postgresql.org/docs/current/functions.html)
 - **SQL Server** [(external link) Types](https://learn.microsoft.com/en-us/sql/t-sql/functions/functions)

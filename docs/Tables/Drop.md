@@ -1,7 +1,6 @@
 [Home](../../readme.md) / The basics / [Tables](../Tables.md) / Delete
 
 [postgresql.org — "Drop table"](https://www.postgresql.org/docs/current/sql-droptable.html)
-[mariadb.com — "Drop table"](https://mariadb.com/docs/server/server-usage/tables/drop-table)
 [learn.microsoft.com — "Drop table"](https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-table-transact-sql)
 
 # Drop

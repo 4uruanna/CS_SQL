@@ -1,6 +1,5 @@
 [Home](../../readme.md) / The basics / [Tables](../Tables.md) / Clone
 
-[mariadb.com — "Create table"](https://mariadb.com/docs/server/server-usage/tables/create-table)  
 [postgresql.org — "Create table"](https://www.postgresql.org/docs/current/sql-createtable.html)  
 [learn.microsoft.com — "SELECT - INTO clause"](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-into-clause-transact-sql?view=sql-server-ver17)
 

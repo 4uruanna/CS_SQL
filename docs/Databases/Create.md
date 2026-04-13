@@ -1,7 +1,7 @@
 [Home](../readme.md) / The basics / [Databases](../Databases.md) / Create
 
 [postgresql.org — "Create database"](https://www.postgresql.org/docs/current/sql-createdatabase.html)  
-[mariadb.com — "Create database"](https://mariadb.com/docs/server/reference/sql-statements/data-definition/create/create-database)  
+
 [learn.microsoft.com — "Create database"](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-database-transact-sql)
 
 # Create
