@@ -4,7 +4,7 @@ Here, I have tried to compile a step-by-step "guide" to all the commons practice
 
 | Version | Created on | Updated on |
 |:-:|:-:|:-:|
-| 1.2.0 | 02/04/2026 | 12/04/2026 |
+| 1.2.0 | 02/04/2026 | 13/04/2026 |
 
 ## INTRODUCTION
 
@@ -16,9 +16,9 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
 
 1. [Choose an engine](./docs/Choose_an_engine.md)
 
-| MariaDB |
-|:-|
-| 1. [Comments](./docs/MariaDB/Comments.md) |
+| MariaDB | PostgreSQL | SQL Server |
+|:-|:-|:-|
+| 1. [Comments](./docs/MariaDB/Comments.md) | _In Progress_ | _In Progress_ |
 | 2. [Databases](./docs/MariaDB/Databases.md) |
 | 3. [Tables](./docs/MariaDB/Tables.md) |
 | 4. [Datas](./docs/MariaDB/Datas.md) |
@@ -33,11 +33,3 @@ Created in 1970 and design by Donald Chamberlin and Raymond Boyce.
 | 13. [Data Types](./docs/MariaDB/Data_Types.md) |
 | 14. [Functions](./docs/MariaDB/Functions.md) |
 | 15. [Operators](./docs/MariaDB/Operators.md) |
-
-### PostgreSQL
-
-_In Progress_
-
-### SQL Server
-
-_In Progress_
